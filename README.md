@@ -1,20 +1,24 @@
 # About Me
-Technology Enablement Data Analyst with a passion for data analytics, data engineering and data science.
-
-🏆 BCS Certified Data Analyst
+Data professional currently completing a Level 6 Data Science Degree Apprenticeship. Experienced in data analysis, dashboard development, data transformation and reporting. Interested in data engineering, automation and the application of data science techniques to solve business problems.
 
 ## My skills
-📊 Power BI – Dashboard development, data visualisation and KPI reporting
+### Analytics & Reporting
+Power BI
+Excel
+KPI Reporting
+Data Visualisation
 
-📈 Excel – Data analysis, reporting and advanced formula creation
+### Data Transformation
+Power Query 
+ETL Pipelines
+Data Cleansing
+Data Modelling
 
-🔄 Power Query – Data transformation, cleansing and data modelling
-
-🐍 Learning Python for data analysis, automation and machine learning
-
-⚙️ Data Engineering – ETL pipelines, data preparation and workflow design
-
-📉 Statistics – Exploratory analysis, hypothesis testing and data interpretation
+### Data Science & Programming
+Python
+Statistics
+Exploratory Data Analysis
+Machine Learning Concepts
 
 ## Project
 
