@@ -1,4 +1,4 @@
-# Portfolio
+# About Me
 Technology Enablement Data Analyst at Lloyds Banking Group with a passion for data analytics, data engineering and data science.
 
 🏆 BCS Certified Data Analyst
